@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutika Chaugale</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSiddheshShinde-tech%2FSiddheshShinde-tech&psig=AOvVaw2JnxXJm7tsZG2z3J7CXR04&ust=1729666343305000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPju77SzoYkDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutu-tchaugale&label=Profile%20views&color=0e75b6&style=flat" alt="rutu-tchaugale" /> </p>
 
